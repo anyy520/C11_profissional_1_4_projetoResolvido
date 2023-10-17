@@ -4,7 +4,6 @@ var seaImg,shipImg;
 function preload(){
   seaImg = loadImage("sea.png");
   shipImg1 = loadAnimation("ship-1.png","ship-1.png",
-                            "ship-2.png","ship-1.png"'ship-1.png","ship-1.png",
                             "ship-2.png","ship-1.png");
 }
 
